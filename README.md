@@ -1,9 +1,9 @@
 #### Hello world :wave::mate:
 
-I'm developer interested in infrastructure, backend services and software quality.
+I'm a developer interested in infrastructure, distributed systems and software quality.
 
-Here are some other stuff that I'm keen about:
-- [Random gists](https://gist.github.com/gustavo-freitas): Personal quick notes containing perspectives, hobbies, food recipes and travel suggestions   
+Extra information:
 - [Tech articles](https://medium.com/@gustavo_f): Words that I've been writing related to computers
+- [Random gists](https://gist.github.com/gustavo-freitas): Notes containing tech perspectives, music and drawing resources
 
-You can reach me at gustavof@gmail.com or at [Twitter](https://twitter.com/gustavo_freitas).
+Feel free to [send me a message](mailto:gustavof@gmail.com) or reach me at [Twitter](https://twitter.com/gustavo_freitas).
