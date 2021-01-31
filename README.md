@@ -1,6 +1,6 @@
 #### Hello world :wave::mate:
 
-I'm a developer interested in infrastructure, distributed systems and software quality.
+I'm a developer interested in infrastructure and software quality.
 
 Additional information:
 - [Articles](https://medium.com/@gustavo_f): Words that I've been writing related to computers
